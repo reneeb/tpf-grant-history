@@ -5,3 +5,7 @@ abstract: Pod Mangling Utility Improvements
 began   : 2009-05
 ended   : 2009-10
 result  : pass
+url     : http://www.perlfoundation.org/pod_mangling_utility_improvements_ricardo_signes
+reports :
+  - http://news.perlfoundation.org/2009/10/grant_update_pod_mangling_util.html
+  - http://news.perlfoundation.org/2009/10/grant_complete_pod_munging_uti.html
